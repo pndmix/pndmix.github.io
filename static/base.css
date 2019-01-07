@@ -247,7 +247,7 @@ a.demo--current {
 	padding: 0.25em;
 }
 
-@media screen and (max-width: 55em) {
+/* @media screen and (max-width: 55em) {
 	.message {
 		display: block;
 	}
@@ -288,4 +288,4 @@ a.demo--current {
 	.demo {
 		margin: 0 0.5em;
 	}
-}
+} */
